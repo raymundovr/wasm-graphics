@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/r/Aprendizaje/rust-3d/target/wasm32-unknown-unknown/debug/build/typenum-a13eeb61256aef75/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/r/Aprendizaje/rust-3d/target/wasm32-unknown-unknown/debug/build/typenum-a13eeb61256aef75/out/op.rs
